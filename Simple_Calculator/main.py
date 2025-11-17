@@ -8,7 +8,7 @@ askPlusOrMinus = input("What you want to choose:  "
 
 if askPlusOrMinus == "1":
     firstNum = input("Write first number ")
-    secondNum = input("Write another number ")
+    secondNum = input("Write another n1umber ")
     intOne = int(firstNum)
     intTwo = int(secondNum)
  
