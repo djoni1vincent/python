@@ -1,7 +1,7 @@
-# 1. Програма которая переводит килограмы в грамы
+
 # 2. Информацию берет от пользователя из input
 # 3. Потом конвертирует значение с килограм в грам
-# 
+#
 #
 #
 
@@ -16,3 +16,4 @@ def kgToGrams(grams):
 inputKg = int(input("Write Kilograms "))
 result = kgToGrams(inputKg)
 print(f"converted {inputKg}kg to {result} ")
+
