@@ -1,0 +1,16 @@
+body {
+  background-color: #ffe5b4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+
+h2 {
+  display: none;
+}
+
+
